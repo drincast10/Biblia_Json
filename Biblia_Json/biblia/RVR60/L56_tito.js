@@ -1,0 +1,70 @@
+BibliaRVR60.tito = {
+	libro: "Tito",
+	numCapitulos: 3,
+
+c1: {
+versiculos:[
+{name:'5611',l:'56',c:'1',v:'1',texto:"Pablo, siervo de Dios y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y el conocimiento de la verdad que es según la piedad," },
+{name:'5612',l:'56',c:'1',v:'2',texto:"en la esperanza de la vida eterna, la cual Dios, que no miente, prometió desde antes del principio de los siglos," },
+{name:'5613',l:'56',c:'1',v:'3',texto:"y a su debido tiempo manifestó su palabra por medio de la predicación que me fue encomendada por mandato de Dios nuestro Salvador," },
+{name:'5614',l:'56',c:'1',v:'4',texto:"a Tito, verdadero hijo en la común fe: Gracia, misericordia y paz, de Dios Padre y del Señor Jesucristo nuestro Salvador." },
+{name:'5615',l:'56',c:'1',v:'5',texto:"Por esta causa te dejé en Creta, para que corrigieses lo deficiente, y establecieses ancianos en cada ciudad, así como yo te mandé; " },
+{name:'5616',l:'56',c:'1',v:'6',texto:"el que fuere irreprensible, marido de una sola mujer, y tenga hijos creyentes que no estén acusados de disolución ni de rebeldía." },
+{name:'5617',l:'56',c:'1',v:'7',texto:"Porque es necesario que el obispo sea irreprensible, como administrador de Dios; no soberbio, no iracundo, no dado al vino, no pendenciero, no codicioso de ganancias deshonestas," },
+{name:'5618',l:'56',c:'1',v:'8',texto:"sino hospedador, amante de lo bueno, sobrio, justo, santo, dueño de sí mismo," },
+{name:'5619',l:'56',c:'1',v:'9',texto:"retenedor de la palabra fiel tal como ha sido enseñada, para que también pueda exhortar con sana enseñanza y convencer a los que contradicen." },
+{name:'56110',l:'56',c:'1',v:'10',texto:"Porque hay aún muchos contumaces, habladores de vanidades y engañadores, mayormente los de la circuncisión," },
+{name:'56111',l:'56',c:'1',v:'11',texto:"a los cuales es preciso tapar la boca; que trastornan casas enteras, enseñando por ganancia deshonesta lo que no conviene." },
+{name:'56112',l:'56',c:'1',v:'12',texto:"Uno de ellos, su propio profeta, dijo: Los cretenses, siempre mentirosos, malas bestias, glotones ociosos." },
+{name:'56113',l:'56',c:'1',v:'13',texto:"Este testimonio es verdadero; por tanto, repréndelos duramente, para que sean sanos en la fe," },
+{name:'56114',l:'56',c:'1',v:'14',texto:"no atendiendo a fábulas judaicas, ni a mandamientos de hombres que se apartan de la verdad." },
+{name:'56115',l:'56',c:'1',v:'15',texto:"Todas las cosas son puras para los puros, mas para los corrompidos e incrédulos nada les es puro; pues hasta su mente y su conciencia están corrompidas." },
+{name:'56116',l:'56',c:'1',v:'16',texto:"Profesan conocer a Dios, pero con los hechos lo niegan, siendo abominables y rebeldes, reprobados en cuanto a toda buena obra." },
+],
+numVersiculos: 16,
+},
+
+c2: {
+versiculos:[
+{name:'5621',l:'56',c:'2',v:'1',texto:"Pero tú habla lo que está de acuerdo con la sana doctrina." },
+{name:'5622',l:'56',c:'2',v:'2',texto:"Que los ancianos sean sobrios, serios, prudentes, sanos en la fe, en el amor, en la paciencia." },
+{name:'5623',l:'56',c:'2',v:'3',texto:"Las ancianas asimismo sean reverentes en su porte; no calumniadoras, no esclavas del vino, maestras del bien; " },
+{name:'5624',l:'56',c:'2',v:'4',texto:"que enseñen a las mujeres jóvenes a amar a sus maridos y a sus hijos," },
+{name:'5625',l:'56',c:'2',v:'5',texto:"a ser prudentes, castas, cuidadosas de su casa, buenas, sujetas a sus maridos, para que la palabra de Dios no sea blasfemada." },
+{name:'5626',l:'56',c:'2',v:'6',texto:"Exhorta asimismo a los jóvenes a que sean prudentes; " },
+{name:'5627',l:'56',c:'2',v:'7',texto:"presentándote tú en todo como ejemplo de buenas obras; en la enseñanza mostrando integridad, seriedad," },
+{name:'5628',l:'56',c:'2',v:'8',texto:"palabra sana e irreprochable, de modo que el adversario se avergüence, y no tenga nada malo que decir de vosotros." },
+{name:'5629',l:'56',c:'2',v:'9',texto:"Exhorta a los siervos a que se sujeten a sus amos, que agraden en todo, que no sean respondones; " },
+{name:'56210',l:'56',c:'2',v:'10',texto:"no defraudando, sino mostrándose fieles en todo, para que en todo adornen la doctrina de Dios nuestro Salvador." },
+{name:'56211',l:'56',c:'2',v:'11',texto:"Porque la gracia de Dios se ha manifestado para salvación a todos los hombres," },
+{name:'56212',l:'56',c:'2',v:'12',texto:"enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y piadosamente," },
+{name:'56213',l:'56',c:'2',v:'13',texto:"aguardando la esperanza bienaventurada y la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo," },
+{name:'56214',l:'56',c:'2',v:'14',texto:"quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar para sí un pueblo propio, celoso de buenas obras." },
+{name:'56215',l:'56',c:'2',v:'15',texto:"Esto habla, y exhorta y reprende con toda autoridad. Nadie te menosprecie." },
+],
+numVersiculos: 15,
+},
+
+c3: {
+versiculos:[
+{name:'5631',l:'56',c:'3',v:'1',texto:"Recuérdales que se sujeten a los gobernantes y autoridades, que obedezcan, que estén dispuestos a toda buena obra." },
+{name:'5632',l:'56',c:'3',v:'2',texto:"Que a nadie difamen, que no sean pendencieros, sino amables, mostrando toda mansedumbre para con todos los hombres." },
+{name:'5633',l:'56',c:'3',v:'3',texto:"Porque nosotros también éramos en otro tiempo insensatos, rebeldes, extraviados, esclavos de concupiscencias y deleites diversos, viviendo en malicia y envidia, aborrecibles, y aborreciéndonos unos a otros." },
+{name:'5634',l:'56',c:'3',v:'4',texto:"Pero cuando se manifestó la bondad de Dios nuestro Salvador, y su amor para con los hombres," },
+{name:'5635',l:'56',c:'3',v:'5',texto:"nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo," },
+{name:'5636',l:'56',c:'3',v:'6',texto:"el cual derramó en nosotros abundantemente por Jesucristo nuestro Salvador," },
+{name:'5637',l:'56',c:'3',v:'7',texto:"para que justificados por su gracia, viniésemos a ser herederos conforme a la esperanza de la vida eterna." },
+{name:'5638',l:'56',c:'3',v:'8',texto:"Palabra fiel es esta, y en estas cosas quiero que insistas con firmeza, para que los que creen en Dios procuren ocuparse en buenas obras. Estas cosas son buenas y útiles a los hombres." },
+{name:'5639',l:'56',c:'3',v:'9',texto:"Pero evita las cuestiones necias, y genealogías, y contenciones, y discusiones acerca de la ley; porque son vanas y sin provecho." },
+{name:'56310',l:'56',c:'3',v:'10',texto:"Al hombre que cause divisiones, después de una y otra amonestación deséchalo," },
+{name:'56311',l:'56',c:'3',v:'11',texto:"sabiendo que el tal se ha pervertido, y peca y está condenado por su propio juicio." },
+{name:'56312',l:'56',c:'3',v:'12',texto:"Cuando envíe a ti a Artemas o a Tíquico, apresúrate a venir a mí en Nicópolis, porque allí he determinado pasar el invierno." },
+{name:'56313',l:'56',c:'3',v:'13',texto:"A Zenas intérprete de la ley, y a Apolos, encamínales con solicitud, de modo que nada les falte." },
+{name:'56314',l:'56',c:'3',v:'14',texto:"Y aprendan también los nuestros a ocuparse en buenas obras para los casos de necesidad, para que no sean sin fruto." },
+{name:'56315',l:'56',c:'3',v:'15',texto:"Todos los que están conmigo te saludan. Saluda a los que nos aman en la fe. La gracia sea con todos vosotros. Amén." },
+],
+numVersiculos: 15,
+},
+	
+
+};

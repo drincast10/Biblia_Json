@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Biblia Json</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	<style type="text/css">
+		
+	</style>
+
+
+
+
+
+</head>
+<body onload="initialize()">
+
+<div id="texto"></div>
+
+
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+<script type="text/javascript" src="biblia/RVR60/BibliaRVR60Framework.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/BibliaJFAFramework.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/BibliaKJVFramework.js" async="async"></script>
+
+<script type="text/javascript" src="Biblia.js"></script>
+
+<script type="text/javascript" src="biblia/RVR60/L1_genesis.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L2_exodo.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L3_levitico.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L4_numeros.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L5_deuteronomio.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L6_josue.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L7_jueces.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L8_rut.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L9_samuel1.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L10_samuel2.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L11_reyes1.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L12_reyes2.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L13_cronicas1.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L14_cronicas2.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L15_esdras.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L16_nehemias.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L17_ester.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L18_job.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L19_salmos.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L20_proverbios.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L21_eclesiastes.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L22_cantares.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L23_isaias.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L24_jeremias.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L25_lamentaciones.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L26_ezequiel.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L27_daniel.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L28_oseas.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L29_joel.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L30_amos.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L31_abdias.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L32_jonas.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L33_miqueas.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L34_nahum.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L35_habacuc.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L36_sofonias.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L37_hageo.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L38_zacarias.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L39_malaquias.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L40_mateo.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L41_marcos.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L42_lucas.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L43_juan.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L44_hechos.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L45_romanos.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L46_corintios1.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L47_corintios2.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L48_galatas.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L49_efesios.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L50_filipenses.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L51_colosenses.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L52_tesalonicenses1.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L53_tesalonicenses2.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L54_timoteo1.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L55_timoteo2.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L56_tito.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L57_filemon.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L58_hebreos.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L59_santiago.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L60_pedro1.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L61_pedro2.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L62_juan1.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L63_juan2.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L64_juan3.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L65_judas.js" async="async"></script>
+<script type="text/javascript" src="biblia/RVR60/L66_apocalipsis.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L1_genesis.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L2_exodo.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L3_levitico.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L4_numeros.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L5_deuteronomio.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L6_josue.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L7_jueces.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L8_rut.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L9_samuel1.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L10_samuel2.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L11_reyes1.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L12_reyes2.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L13_cronicas1.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L14_cronicas2.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L15_esdras.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L16_nehemias.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L17_ester.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L18_job.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L19_salmos.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L20_proverbios.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L21_eclesiastes.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L22_cantares.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L23_isaias.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L24_jeremias.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L25_lamentaciones.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L26_ezequiel.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L27_daniel.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L28_oseas.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L29_joel.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L30_amos.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L31_abdias.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L32_jonas.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L33_miqueas.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L34_nahum.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L35_habacuc.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L36_sofonias.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L37_hageo.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L38_zacarias.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L39_malaquias.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L40_mateo.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L41_marcos.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L42_lucas.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L43_juan.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L44_hechos.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L45_romanos.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L46_corintios1.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L47_corintios2.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L48_galatas.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L49_efesios.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L50_filipenses.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L51_colosenses.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L52_tesalonicenses1.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L53_tesalonicenses2.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L54_timoteo1.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L55_timoteo2.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L56_tito.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L57_filemon.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L58_hebreos.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L59_santiago.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L60_pedro1.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L61_pedro2.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L62_juan1.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L63_juan2.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L64_juan3.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L65_judas.js" async="async"></script>
+<script type="text/javascript" src="biblia/JFA/L66_apocalipsis.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L1_genesis.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L2_exodo.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L3_levitico.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L4_numeros.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L5_deuteronomio.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L6_josue.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L7_jueces.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L8_rut.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L9_samuel1.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L10_samuel2.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L11_reyes1.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L12_reyes2.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L13_cronicas1.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L14_cronicas2.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L15_esdras.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L16_nehemias.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L17_ester.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L18_job.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L19_salmos.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L20_proverbios.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L21_eclesiastes.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L22_cantares.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L23_isaias.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L24_jeremias.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L25_lamentaciones.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L26_ezequiel.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L27_daniel.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L28_oseas.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L29_joel.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L30_amos.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L31_abdias.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L32_jonas.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L33_miqueas.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L34_nahum.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L35_habacuc.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L36_sofonias.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L37_hageo.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L38_zacarias.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L39_malaquias.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L40_mateo.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L41_marcos.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L42_lucas.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L43_juan.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L44_hechos.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L45_romanos.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L46_corintios1.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L47_corintios2.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L48_galatas.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L49_efesios.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L50_filipenses.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L51_colosenses.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L52_tesalonicenses1.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L53_tesalonicenses2.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L54_timoteo1.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L55_timoteo2.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L56_tito.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L57_filemon.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L58_hebreos.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L59_santiago.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L60_pedro1.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L61_pedro2.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L62_juan1.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L63_juan2.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L64_juan3.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L65_judas.js" async="async"></script>
+<script type="text/javascript" src="biblia/KJV/L66_apocalipsis.js" async="async"></script>
+
+<script type="text/javascript" src="init.js"></script>
+
+
+
+</body>
+
+</html>

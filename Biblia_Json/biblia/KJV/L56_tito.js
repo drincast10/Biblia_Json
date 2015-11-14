@@ -1,0 +1,70 @@
+BibliaKJV.tito = {
+	libro: "Titus",
+	numCapitulos: 3,
+
+c1: {
+versiculos:[
+{name:'5611',l:'56',c:'1',v:'1',texto:"Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;"},
+{name:'5612',l:'56',c:'1',v:'2',texto:"In hope of eternal life, which God, that cannot lie, promised before the world began;"},
+{name:'5613',l:'56',c:'1',v:'3',texto:"But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;"},
+{name:'5614',l:'56',c:'1',v:'4',texto:"To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour."},
+{name:'5615',l:'56',c:'1',v:'5',texto:"For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:"},
+{name:'5616',l:'56',c:'1',v:'6',texto:"If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly."},
+{name:'5617',l:'56',c:'1',v:'7',texto:"For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;"},
+{name:'5618',l:'56',c:'1',v:'8',texto:"But a lover of hospitality, a lover of good men, sober, just, holy, temperate;"},
+{name:'5619',l:'56',c:'1',v:'9',texto:"Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers."},
+{name:'56110',l:'56',c:'1',v:'10',texto:"For there are many unruly and vain talkers and deceivers, specially they of the circumcision:"},
+{name:'56111',l:'56',c:'1',v:'11',texto:"Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake."},
+{name:'56112',l:'56',c:'1',v:'12',texto:"One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies."},
+{name:'56113',l:'56',c:'1',v:'13',texto:"This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;"},
+{name:'56114',l:'56',c:'1',v:'14',texto:"Not giving heed to Jewish fables, and commandments of men, that turn from the truth."},
+{name:'56115',l:'56',c:'1',v:'15',texto:"Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled."},
+{name:'56116',l:'56',c:'1',v:'16',texto:"They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate."},
+],
+numVersiculos: 16,
+},
+
+c2: {
+versiculos:[
+{name:'5621',l:'56',c:'2',v:'1',texto:"But speak thou the things which become sound doctrine:"},
+{name:'5622',l:'56',c:'2',v:'2',texto:"That the aged men be sober, grave, temperate, sound in faith, in charity, in patience."},
+{name:'5623',l:'56',c:'2',v:'3',texto:"The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;"},
+{name:'5624',l:'56',c:'2',v:'4',texto:"That they may teach the young women to be sober, to love their husbands, to love their children,"},
+{name:'5625',l:'56',c:'2',v:'5',texto:"To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed."},
+{name:'5626',l:'56',c:'2',v:'6',texto:"Young men likewise exhort to be sober minded."},
+{name:'5627',l:'56',c:'2',v:'7',texto:"In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,"},
+{name:'5628',l:'56',c:'2',v:'8',texto:"Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you."},
+{name:'5629',l:'56',c:'2',v:'9',texto:"Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again;"},
+{name:'56210',l:'56',c:'2',v:'10',texto:"Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things."},
+{name:'56211',l:'56',c:'2',v:'11',texto:"For the grace of God that bringeth salvation hath appeared to all men,"},
+{name:'56212',l:'56',c:'2',v:'12',texto:"Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;"},
+{name:'56213',l:'56',c:'2',v:'13',texto:"Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;"},
+{name:'56214',l:'56',c:'2',v:'14',texto:"Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works."},
+{name:'56215',l:'56',c:'2',v:'15',texto:"These things speak, and exhort, and rebuke with all authority. Let no man despise thee."},
+],
+numVersiculos: 15,
+},
+
+c3: {
+versiculos:[
+{name:'5631',l:'56',c:'3',v:'1',texto:"Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,"},
+{name:'5632',l:'56',c:'3',v:'2',texto:"To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men."},
+{name:'5633',l:'56',c:'3',v:'3',texto:"For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another."},
+{name:'5634',l:'56',c:'3',v:'4',texto:"But after that the kindness and love of God our Saviour toward man appeared,"},
+{name:'5635',l:'56',c:'3',v:'5',texto:"Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;"},
+{name:'5636',l:'56',c:'3',v:'6',texto:"Which he shed on us abundantly through Jesus Christ our Saviour;"},
+{name:'5637',l:'56',c:'3',v:'7',texto:"That being justified by his grace, we should be made heirs according to the hope of eternal life."},
+{name:'5638',l:'56',c:'3',v:'8',texto:"This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men."},
+{name:'5639',l:'56',c:'3',v:'9',texto:"But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain."},
+{name:'56310',l:'56',c:'3',v:'10',texto:"A man that is an heretick after the first and second admonition reject;"},
+{name:'56311',l:'56',c:'3',v:'11',texto:"Knowing that he that is such is subverted, and sinneth, being condemned of himself."},
+{name:'56312',l:'56',c:'3',v:'12',texto:"When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter."},
+{name:'56313',l:'56',c:'3',v:'13',texto:"Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them."},
+{name:'56314',l:'56',c:'3',v:'14',texto:"And let ours also learn to maintain good works for necessary uses, that they be not unfruitful."},
+{name:'56315',l:'56',c:'3',v:'15',texto:"All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen."},
+],
+numVersiculos: 15,
+},
+	
+
+};

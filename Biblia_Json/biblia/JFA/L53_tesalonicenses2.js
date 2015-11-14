@@ -1,0 +1,71 @@
+BibliaJFA.tesalonicenses2 = {
+	libro: "2 Tessalonicenses",
+	numCapitulos: 3,
+
+c1: {
+versiculos:[
+{name:'5311',l:'53',c:'1',v:'1',texto:"Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus, nosso Pai, e no Senhor Jesus Cristo:" },
+{name:'5312',l:'53',c:'1',v:'2',texto:"graça e paz a vós, da parte de Deus, nosso Pai, e da do Senhor Jesus Cristo." },
+{name:'5313',l:'53',c:'1',v:'3',texto:"Sempre devemos, irmãos, dar graças a Deus por vós, como é de razão, porque a vossa fé cresce muitíssimo, e a caridade de cada um de vós aumenta de uns para com os outros," },
+{name:'5314',l:'53',c:'1',v:'4',texto:"de maneira que nós mesmos nos gloriamos de vós nas igrejas de Deus, por causa da vossa paciência e fé, e em todas as vossas perseguições e aflições que suportais," },
+{name:'5315',l:'53',c:'1',v:'5',texto:"prova clara do justo juízo de Deus, para que sejais havidos por dignos do Reino de Deus, pelo qual também padeceis;" },
+{name:'5316',l:'53',c:'1',v:'6',texto:"se, de fato, é justo diante de Deus que dê em paga tribulação aos que vos atribulam," },
+{name:'5317',l:'53',c:'1',v:'7',texto:"e a vós, que sois atribulados, descanso conosco, quando se manifestar o Senhor Jesus desde o céu, com os anjos do seu poder," },
+{name:'5318',l:'53',c:'1',v:'8',texto:"como labareda de fogo, tomando vingança dos que não conhecem a Deus e dos que não obedecem ao evangelho de nosso Senhor Jesus Cristo;" },
+{name:'5319',l:'53',c:'1',v:'9',texto:"os quais, por castigo, padecerão eterna perdição, ante a face do Senhor e a glória do seu poder," },
+{name:'53110',l:'53',c:'1',v:'10',texto:"quando vier para ser glorificado nos seus santos e para se fazer admirável, naquele Dia, em todos os que crêem ( porquanto o nosso testemunho foi crido entre vós )." },
+{name:'53111',l:'53',c:'1',v:'11',texto:"Pelo que também rogamos sempre por vós, para que o nosso Deus vos faça dignos da sua vocação e cumpra todo desejo da sua bondade e a obra da fé com poder;" },
+{name:'53112',l:'53',c:'1',v:'12',texto:"para que o nome de nosso Senhor Jesus Cristo seja em vós glorificado, e vós nele, segundo a graça de nosso Deus e do Senhor Jesus Cristo." },
+],
+numVersiculos: 12,
+},
+
+c2: {
+versiculos:[
+{name:'5321',l:'53',c:'2',v:'1',texto:"Ora, irmãos, rogamo-vos, pela vinda de nosso Senhor Jesus Cristo e pela nossa reunião com ele," },
+{name:'5322',l:'53',c:'2',v:'2',texto:"que não vos movais facilmente do vosso entendimento, nem vos perturbeis, quer por espírito, quer por palavra, quer por epístola, como de nós, como se o Dia de Cristo estivesse já perto." },
+{name:'5323',l:'53',c:'2',v:'3',texto:"Ninguém, de maneira alguma, vos engane, porque não será assim sem que antes venha a apostasia e se manifeste o homem do pecado, o filho da perdição," },
+{name:'5324',l:'53',c:'2',v:'4',texto:"o qual se opõe e se levanta contra tudo o que se chama Deus ou se adora; de sorte que se assentará, como Deus, no templo de Deus, querendo parecer Deus." },
+{name:'5325',l:'53',c:'2',v:'5',texto:"Não vos lembrais de que estas coisas vos dizia quando ainda estava convosco?" },
+{name:'5326',l:'53',c:'2',v:'6',texto:"E, agora, vós sabeis o que o detém, para que a seu próprio tempo seja manifestado." },
+{name:'5327',l:'53',c:'2',v:'7',texto:"Porque já o mistério da injustiça opera; somente há um que, agora, resiste até que do meio seja tirado;" },
+{name:'5328',l:'53',c:'2',v:'8',texto:"e, então, será revelado o iníquo, a quem o Senhor desfará pelo assopro da sua boca e aniquilará pelo esplendor da sua vinda;" },
+{name:'5329',l:'53',c:'2',v:'9',texto:"a esse cuja vinda é segundo a eficácia de Satanás, com todo o poder, e sinais, e prodígios de mentira," },
+{name:'53210',l:'53',c:'2',v:'10',texto:"e com todo engano da injustiça para os que perecem, porque não receberam o amor da verdade para se salvarem." },
+{name:'53211',l:'53',c:'2',v:'11',texto:"E, por isso, Deus lhes enviará a operação do erro, para que creiam a mentira," },
+{name:'53212',l:'53',c:'2',v:'12',texto:"para que sejam julgados todos os que não creram a verdade; antes, tiveram prazer na iniqüidade." },
+{name:'53213',l:'53',c:'2',v:'13',texto:"Mas devemos sempre dar graças a Deus, por vós, irmãos amados do Senhor, por vos ter Deus elegido desde o princípio para a salvação, em santificação do Espírito e fé da verdade," },
+{name:'53214',l:'53',c:'2',v:'14',texto:"para o que, pelo nosso evangelho, vos chamou, para alcançardes a glória de nosso Senhor Jesus Cristo." },
+{name:'53215',l:'53',c:'2',v:'15',texto:"Então, irmãos, estai firmes e retende as tradições que vos foram ensinadas, seja por palavra, seja por epístola nossa." },
+{name:'53216',l:'53',c:'2',v:'16',texto:"E o próprio nosso Senhor Jesus Cristo, e nosso Deus e Pai, que nos amou e em graça nos deu uma eterna consolação e boa esperança," },
+{name:'53217',l:'53',c:'2',v:'17',texto:"console o vosso coração e vos conforte em toda boa palavra e obra." },
+],
+numVersiculos: 17,
+},
+
+c3: {
+versiculos:[
+{name:'5331',l:'53',c:'3',v:'1',texto:"No demais, irmãos, rogai por nós, para que a palavra do Senhor tenha livre curso e seja glorificada, como também o é entre vós;" },
+{name:'5332',l:'53',c:'3',v:'2',texto:"e para que sejamos livres de homens dissolutos e maus; porque a fé não é de todos." },
+{name:'5333',l:'53',c:'3',v:'3',texto:"Mas fiel é o Senhor, que vos confortará e guardará do maligno." },
+{name:'5334',l:'53',c:'3',v:'4',texto:"E confiamos de vós no Senhor que não só fazeis como fareis o que vos mandamos." },
+{name:'5335',l:'53',c:'3',v:'5',texto:"Ora, o Senhor encaminhe o vosso coração na caridade de Deus e na paciência de Cristo." },
+{name:'5336',l:'53',c:'3',v:'6',texto:"Mandamo-vos, porém, irmãos, em nome de nosso Senhor Jesus Cristo, que vos aparteis de todo irmão que andar desordenadamente e não segundo a tradição que de nós recebeu." },
+{name:'5337',l:'53',c:'3',v:'7',texto:"Porque vós mesmos sabeis como convém imitar-nos, pois que não nos houvemos desordenadamente entre vós," },
+{name:'5338',l:'53',c:'3',v:'8',texto:"nem, de graça, comemos o pão de homem algum, mas com trabalho e fadiga, trabalhando noite e dia, para não sermos pesados a nenhum de vós;" },
+{name:'5339',l:'53',c:'3',v:'9',texto:"não porque não tivéssemos autoridade, mas para vos dar em nós mesmos exemplo, para nos imitardes." },
+{name:'53310',l:'53',c:'3',v:'10',texto:"Porque, quando ainda estávamos convosco, vos mandamos isto: que, se alguém não quiser trabalhar, não coma também." },
+{name:'53311',l:'53',c:'3',v:'11',texto:"Porquanto ouvimos que alguns entre vós andam desordenadamente, não trabalhando, antes, fazendo coisas vãs." },
+{name:'53312',l:'53',c:'3',v:'12',texto:"A esses tais, porém, mandamos e exortamos, por nosso Senhor Jesus Cristo, que, trabalhando com sossego, comam o seu próprio pão." },
+{name:'53313',l:'53',c:'3',v:'13',texto:"E vós, irmãos, não vos canseis de fazer o bem." },
+{name:'53314',l:'53',c:'3',v:'14',texto:"Mas, se alguém não obedecer à nossa palavra por esta carta, notai o tal e não vos mistureis com ele, para que se envergonhe." },
+{name:'53315',l:'53',c:'3',v:'15',texto:"Todavia, não o tenhais como inimigo, mas admoestai-o como irmão." },
+{name:'53316',l:'53',c:'3',v:'16',texto:"Ora, o mesmo Senhor da paz vos dê sempre paz de toda maneira. O Senhor seja com todos vós." },
+{name:'53317',l:'53',c:'3',v:'17',texto:"Saudação da minha própria mão, de mim, Paulo, que é o sinal em todas as epístolas; assim escrevo." },
+{name:'53318',l:'53',c:'3',v:'18',texto:"A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém!" },
+],
+numVersiculos: 18,
+},
+	
+
+};

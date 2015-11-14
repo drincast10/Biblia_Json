@@ -1,0 +1,71 @@
+BibliaKJV.nahum = {
+	libro: "Nahum",
+	numCapitulos: 3,
+
+c1: {
+versiculos:[
+{name:'3411',l:'34',c:'1',v:'1',texto:"The burden of Nineveh. The book of the vision of Nahum the Elkoshite."},
+{name:'3412',l:'34',c:'1',v:'2',texto:"God is jealous, and the LORD revengeth; the LORD revengeth, and is furious; the LORD will take vengeance on his adversaries, and he reserveth wrath for his enemies."},
+{name:'3413',l:'34',c:'1',v:'3',texto:"The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet."},
+{name:'3414',l:'34',c:'1',v:'4',texto:"He rebuketh the sea, and maketh it dry, and drieth up all the rivers: Bashan languisheth, and Carmel, and the flower of Lebanon languisheth."},
+{name:'3415',l:'34',c:'1',v:'5',texto:"The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein."},
+{name:'3416',l:'34',c:'1',v:'6',texto:"Who can stand before his indignation? and who can abide in the fierceness of his anger? his fury is poured out like fire, and the rocks are thrown down by him."},
+{name:'3417',l:'34',c:'1',v:'7',texto:"The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him."},
+{name:'3418',l:'34',c:'1',v:'8',texto:"But with an overrunning flood he will make an utter end of the place thereof, and darkness shall pursue his enemies."},
+{name:'3419',l:'34',c:'1',v:'9',texto:"What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time."},
+{name:'34110',l:'34',c:'1',v:'10',texto:"For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry."},
+{name:'34111',l:'34',c:'1',v:'11',texto:"There is one come out of thee, that imagineth evil against the LORD, a wicked counsellor."},
+{name:'34112',l:'34',c:'1',v:'12',texto:"Thus saith the LORD; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more."},
+{name:'34113',l:'34',c:'1',v:'13',texto:"For now will I break his yoke from off thee, and will burst thy bonds in sunder."},
+{name:'34114',l:'34',c:'1',v:'14',texto:"And the LORD hath given a commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile."},
+{name:'34115',l:'34',c:'1',v:'15',texto:"Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off."},
+],
+numVersiculos: 15,
+},
+
+c2: {
+versiculos:[
+{name:'3421',l:'34',c:'2',v:'1',texto:"He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily."},
+{name:'3422',l:'34',c:'2',v:'2',texto:"For the LORD hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches."},
+{name:'3423',l:'34',c:'2',v:'3',texto:"The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken."},
+{name:'3424',l:'34',c:'2',v:'4',texto:"The chariots shall rage in the streets, they shall justle one against another in the broad ways: they shall seem like torches, they shall run like the lightnings."},
+{name:'3425',l:'34',c:'2',v:'5',texto:"He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared."},
+{name:'3426',l:'34',c:'2',v:'6',texto:"The gates of the rivers shall be opened, and the palace shall be dissolved."},
+{name:'3427',l:'34',c:'2',v:'7',texto:"And Huzzab shall be led away captive, she shall be brought up, and her maids shall lead her as with the voice of doves, tabering upon their breasts."},
+{name:'3428',l:'34',c:'2',v:'8',texto:"But Nineveh is of old like a pool of water: yet they shall flee away. Stand, stand, shall they cry; but none shall look back."},
+{name:'3429',l:'34',c:'2',v:'9',texto:"Take ye the spoil of silver, take the spoil of gold: for there is none end of the store and glory out of all the pleasant furniture."},
+{name:'34210',l:'34',c:'2',v:'10',texto:"She is empty, and void, and waste: and the heart melteth, and the knees smite together, and much pain is in all loins, and the faces of them all gather blackness."},
+{name:'34211',l:'34',c:'2',v:'11',texto:"Where is the dwelling of the lions, and the feedingplace of the young lions, where the lion, even the old lion, walked, and the lion's whelp, and none made them afraid?"},
+{name:'34212',l:'34',c:'2',v:'12',texto:"The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin."},
+{name:'34213',l:'34',c:'2',v:'13',texto:"Behold, I am against thee, saith the LORD of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard."},
+],
+numVersiculos: 13,
+},
+
+c3: {
+versiculos:[
+{name:'3431',l:'34',c:'3',v:'1',texto:"Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;"},
+{name:'3432',l:'34',c:'3',v:'2',texto:"The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots."},
+{name:'3433',l:'34',c:'3',v:'3',texto:"The horseman lifteth up both the bright sword and the glittering spear: and there is a multitude of slain, and a great number of carcases; and there is none end of their corpses; they stumble upon their corpses:"},
+{name:'3434',l:'34',c:'3',v:'4',texto:"Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts."},
+{name:'3435',l:'34',c:'3',v:'5',texto:"Behold, I am against thee, saith the LORD of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame."},
+{name:'3436',l:'34',c:'3',v:'6',texto:"And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock."},
+{name:'3437',l:'34',c:'3',v:'7',texto:"And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?"},
+{name:'3438',l:'34',c:'3',v:'8',texto:"Art thou better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?"},
+{name:'3439',l:'34',c:'3',v:'9',texto:"Ethiopia and Egypt were her strength, and it was infinite; Put and Lubim were thy helpers."},
+{name:'34310',l:'34',c:'3',v:'10',texto:"Yet was she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains."},
+{name:'34311',l:'34',c:'3',v:'11',texto:"Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy."},
+{name:'34312',l:'34',c:'3',v:'12',texto:"All thy strong holds shall be like fig trees with the firstripe figs: if they be shaken, they shall even fall into the mouth of the eater."},
+{name:'34313',l:'34',c:'3',v:'13',texto:"Behold, thy people in the midst of thee are women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars."},
+{name:'34314',l:'34',c:'3',v:'14',texto:"Draw thee waters for the siege, fortify thy strong holds: go into clay, and tread the morter, make strong the brickkiln."},
+{name:'34315',l:'34',c:'3',v:'15',texto:"There shall the fire devour thee; the sword shall cut thee off, it shall eat thee up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts."},
+{name:'34316',l:'34',c:'3',v:'16',texto:"Thou hast multiplied thy merchants above the stars of heaven: the cankerworm spoileth, and flieth away."},
+{name:'34317',l:'34',c:'3',v:'17',texto:"Thy crowned are as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, but when the sun ariseth they flee away, and their place is not known where they are."},
+{name:'34318',l:'34',c:'3',v:'18',texto:"Thy shepherds slumber, O king of Assyria: thy nobles shall dwell in the dust: thy people is scattered upon the mountains, and no man gathereth them."},
+{name:'34319',l:'34',c:'3',v:'19',texto:"There is no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?"},
+],
+numVersiculos: 19,
+},
+
+
+};

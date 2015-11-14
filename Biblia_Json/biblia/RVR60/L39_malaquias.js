@@ -1,0 +1,85 @@
+BibliaRVR60.malaquias = {
+	libro: "Malaquías",
+	numCapitulos: 4,
+
+c1: {
+versiculos:[
+{name:'3911',l:'39',c:'1',v:'1',texto:"Profecía de la palabra de Jehová contra Israel, por medio de Malaquías." },
+{name:'3912',l:'39',c:'1',v:'2',texto:"Yo os he amado, dice Jehová; y dijisteis: ¿En qué nos amaste? ¿No era Esaú hermano de Jacob? dice Jehová. Y amé a Jacob," },
+{name:'3913',l:'39',c:'1',v:'3',texto:"y a Esaú aborrecí, y convertí sus montes en desolación, y abandoné su heredad para los chacales del desierto." },
+{name:'3914',l:'39',c:'1',v:'4',texto:"Cuando Edom dijere: Nos hemos empobrecido, pero volveremos a edificar lo arruinado; así ha dicho Jehová de los ejércitos: Ellos edificarán, y yo destruiré; y les llamarán territorio de impiedad, y pueblo contra el cual Jehová está indignado para siempre." },
+{name:'3915',l:'39',c:'1',v:'5',texto:"Y vuestros ojos lo verán, y diréis: Sea Jehová engrandecido más allá de los límites de Israel." },
+{name:'3916',l:'39',c:'1',v:'6',texto:"El hijo honra al padre, y el siervo a su señor. Si, pues, soy yo padre, ¿dónde está mi honra? y si soy señor, ¿dónde está mi temor? dice Jehová de los ejércitos a vosotros, oh sacerdotes, que menospreciáis mi nombre. Y decís: ¿En qué hemos menospreciado tu nombre? " },
+{name:'3917',l:'39',c:'1',v:'7',texto:"En que ofrecéis sobre mi altar pan inmundo. Y dijisteis: ¿En qué te hemos deshonrado? En que pensáis que la mesa de Jehová es despreciable." },
+{name:'3918',l:'39',c:'1',v:'8',texto:"Y cuando ofrecéis el animal ciego para el sacrificio, ¿no es malo? Asimismo cuando ofrecéis el cojo o el enfermo, ¿no es malo? Preséntalo, pues, a tu príncipe; ¿acaso se agradará de ti, o le serás acepto? dice Jehová de los ejércitos." },
+{name:'3919',l:'39',c:'1',v:'9',texto:"Ahora, pues, orad por el favor de Dios, para que tenga piedad de nosotros. Pero ¿cómo podéis agradarle, si hacéis estas cosas? dice Jehová de los ejércitos." },
+{name:'39110',l:'39',c:'1',v:'10',texto:"¿Quién también hay de vosotros que cierre las puertas o alumbre mi altar de balde? Yo no tengo complacencia en vosotros, dice Jehová de los ejércitos, ni de vuestra mano aceptaré ofrenda." },
+{name:'39111',l:'39',c:'1',v:'11',texto:"Porque desde donde el sol nace hasta donde se pone, es grande mi nombre entre las naciones; y en todo lugar se ofrece a mi nombre incienso y ofrenda limpia, porque grande es mi nombre entre las naciones, dice Jehová de los ejércitos." },
+{name:'39112',l:'39',c:'1',v:'12',texto:"Y vosotros lo habéis profanado cuando decís: Inmunda es la mesa de Jehová, y cuando decís que su alimento es despreciable." },
+{name:'39113',l:'39',c:'1',v:'13',texto:"Habéis además dicho: ¡Oh, qué fastidio es esto! y me despreciáis, dice Jehová de los ejércitos; y trajisteis lo hurtado, o cojo, o enfermo, y presentasteis ofrenda. ¿Aceptaré yo eso de vuestra mano? dice Jehová." },
+{name:'39114',l:'39',c:'1',v:'14',texto:"Maldito el que engaña, el que teniendo machos en su rebaño, promete, y sacrifica a Jehová lo dañado. Porque yo soy Gran Rey, dice Jehová de los ejércitos, y mi nombre es temible entre las naciones." },
+],
+numVersiculos: 14,
+},
+
+c2: {
+versiculos:[
+{name:'3921',l:'39',c:'2',v:'1',texto:"Ahora, pues, oh sacerdotes, para vosotros es este mandamiento." },
+{name:'3922',l:'39',c:'2',v:'2',texto:"Si no oyereis, y si no decidís de corazón dar gloria a mi nombre, ha dicho Jehová de los ejércitos, enviaré maldición sobre vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no os habéis decidido de corazón." },
+{name:'3923',l:'39',c:'2',v:'3',texto:"He aquí, yo os dañaré la sementera, y os echaré al rostro el estiércol, el estiércol de vuestros animales sacrificados, y seréis arrojados juntamente con él." },
+{name:'3924',l:'39',c:'2',v:'4',texto:"Y sabréis que yo os envié este mandamiento, para que fuese mi pacto con Leví, ha dicho Jehová de los ejércitos." },
+{name:'3925',l:'39',c:'2',v:'5',texto:"Mi pacto con él fue de vida y de paz, las cuales cosas yo le di para que me temiera; y tuvo temor de mí, y delante de mi nombre estuvo humillado." },
+{name:'3926',l:'39',c:'2',v:'6',texto:"La ley de verdad estuvo en su boca, e iniquidad no fue hallada en sus labios; en paz y en justicia anduvo conmigo, y a muchos hizo apartar de la iniquidad." },
+{name:'3927',l:'39',c:'2',v:'7',texto:"Porque los labios del sacerdote han de guardar la sabiduría, y de su boca el pueblo buscará la ley; porque mensajero es de Jehová de los ejércitos." },
+{name:'3928',l:'39',c:'2',v:'8',texto:"Mas vosotros os habéis apartado del camino; habéis hecho tropezar a muchos en la ley; habéis corrompido el pacto de Leví, dice Jehová de los ejércitos." },
+{name:'3929',l:'39',c:'2',v:'9',texto:"Por tanto, yo también os he hecho viles y bajos ante todo el pueblo, así como vosotros no habéis guardado mis caminos, y en la ley hacéis acepción de personas." },
+{name:'39210',l:'39',c:'2',v:'10',texto:"¿No tenemos todos un mismo padre? ¿No nos ha creado un mismo Dios? ¿Por qué, pues, nos portamos deslealmente el uno contra el otro, profanando el pacto de nuestros padres? " },
+{name:'39211',l:'39',c:'2',v:'11',texto:"Prevaricó Judá, y en Israel y en Jerusalén se ha cometido abominación; porque Judá ha profanado el santuario de Jehová que él amó, y se casó con hija de dios extraño." },
+{name:'39212',l:'39',c:'2',v:'12',texto:"Jehová cortará de las tiendas de Jacob al hombre que hiciere esto, al que vela y al que responde, y al que ofrece ofrenda a Jehová de los ejércitos." },
+{name:'39213',l:'39',c:'2',v:'13',texto:"Y esta otra vez haréis cubrir el altar de Jehová de lágrimas, de llanto, y de clamor; así que no miraré más a la ofrenda, para aceptarla con gusto de vuestra mano." },
+{name:'39214',l:'39',c:'2',v:'14',texto:"Mas diréis: ¿Por qué? Porque Jehová ha atestiguado entre ti y la mujer de tu juventud, contra la cual has sido desleal, siendo ella tu compañera, y la mujer de tu pacto." },
+{name:'39215',l:'39',c:'2',v:'15',texto:"¿No hizo él uno, habiendo en él abundancia de espíritu? ¿Y por qué uno? Porque buscaba una descendencia para Dios. Guardaos, pues, en vuestro espíritu, y no seáis desleales para con la mujer de vuestra juventud." },
+{name:'39216',l:'39',c:'2',v:'16',texto:"Porque Jehová Dios de Israel ha dicho que él aborrece el repudio, y al que cubre de iniquidad su vestido, dijo Jehová de los ejércitos. Guardaos, pues, en vuestro espíritu, y no seáis desleales." },
+{name:'39217',l:'39',c:'2',v:'17',texto:"Habéis hecho cansar a Jehová con vuestras palabras. Y decís: ¿En qué le hemos cansado? En que decís: Cualquiera que hace mal agrada a Jehová, y en los tales se complace; o si no, ¿dónde está el Dios de justicia? " },
+],
+numVersiculos: 17,
+},
+
+c3: {
+versiculos:[
+{name:'3931',l:'39',c:'3',v:'1',texto:"He aquí, yo envío mi mensajero, el cual preparará el camino delante de mí; y vendrá súbitamente a su templo el Señor a quien vosotros buscáis, y el ángel del pacto, a quien deseáis vosotros. He aquí viene, ha dicho Jehová de los ejércitos." },
+{name:'3932',l:'39',c:'3',v:'2',texto:"¿Y quién podrá soportar el tiempo de su venida? ¿o quién podrá estar en pie cuando él se manifieste? Porque él es como fuego purificador, y como jabón de lavadores." },
+{name:'3933',l:'39',c:'3',v:'3',texto:"Y se sentará para afinar y limpiar la plata; porque limpiará a los hijos de Leví, los afinará como a oro y como a plata, y traerán a Jehová ofrenda en justicia." },
+{name:'3934',l:'39',c:'3',v:'4',texto:"Y será grata a Jehová la ofrenda de Judá y de Jerusalén, como en los días pasados, y como en los años antiguos." },
+{name:'3935',l:'39',c:'3',v:'5',texto:"Y vendré a vosotros para juicio; y seré pronto testigo contra los hechiceros y adúlteros, contra los que juran mentira, y los que defraudan en su salario al jornalero, a la viuda y al huérfano, y los que hacen injusticia al extranjero, no teniendo temor de mí, dice Jehová de los ejércitos." },
+{name:'3936',l:'39',c:'3',v:'6',texto:"Porque yo Jehová no cambio; por esto, hijos de Jacob, no habéis sido consumidos." },
+{name:'3937',l:'39',c:'3',v:'7',texto:"Desde los días de vuestros padres os habéis apartado de mis leyes, y no las guardasteis. Volveos a mí, y yo me volveré a vosotros, ha dicho Jehová de los ejércitos. Mas dijisteis: ¿En qué hemos de volvernos? " },
+{name:'3938',l:'39',c:'3',v:'8',texto:"¿Robará el hombre a Dios? Pues vosotros me habéis robado. Y dijisteis: ¿En qué te hemos robado? En vuestros diezmos y ofrendas." },
+{name:'3939',l:'39',c:'3',v:'9',texto:"Malditos sois con maldición, porque vosotros, la nación toda, me habéis robado." },
+{name:'39310',l:'39',c:'3',v:'10',texto:"Traed todos los diezmos al alfolí y haya alimento en mi casa; y probadme ahora en esto, dice Jehová de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde." },
+{name:'39311',l:'39',c:'3',v:'11',texto:"Reprenderé también por vosotros al devorador, y no os destruirá el fruto de la tierra, ni vuestra vid en el campo será estéril, dice Jehová de los ejércitos." },
+{name:'39312',l:'39',c:'3',v:'12',texto:"Y todas las naciones os dirán bienaventurados; porque seréis tierra deseable, dice Jehová de los ejércitos." },
+{name:'39313',l:'39',c:'3',v:'13',texto:"Vuestras palabras contra mí han sido violentas, dice Jehová. Y dijisteis: ¿Qué hemos hablado contra ti? " },
+{name:'39314',l:'39',c:'3',v:'14',texto:"Habéis dicho: Por demás es servir a Dios. ¿Qué aprovecha que guardemos su ley, y que andemos afligidos en presencia de Jehová de los ejércitos? " },
+{name:'39315',l:'39',c:'3',v:'15',texto:"Decimos, pues, ahora: Bienaventurados son los soberbios, y los que hacen impiedad no sólo son prosperados, sino que tentaron a Dios y escaparon." },
+{name:'39316',l:'39',c:'3',v:'16',texto:"Entonces los que temían a Jehová hablaron cada uno a su compañero; y Jehová escuchó y oyó, y fue escrito libro de memoria delante de él para los que temen a Jehová, y para los que piensan en su nombre." },
+{name:'39317',l:'39',c:'3',v:'17',texto:"Y serán para mí especial tesoro, ha dicho Jehová de los ejércitos, en el día en que yo actúe; y los perdonaré, como el hombre que perdona a su hijo que le sirve." },
+{name:'39318',l:'39',c:'3',v:'18',texto:"Entonces os volveréis, y discerniréis la diferencia entre el justo y el malo, entre el que sirve a Dios y el que no le sirve." },
+],
+numVersiculos: 18,
+},
+
+c4: {
+versiculos:[
+{name:'3941',l:'39',c:'4',v:'1',texto:"Porque he aquí, viene el día ardiente como un horno, y todos los soberbios y todos los que hacen maldad serán estopa; aquel día que vendrá los abrasará, ha dicho Jehová de los ejércitos, y no les dejará ni raíz ni rama." },
+{name:'3942',l:'39',c:'4',v:'2',texto:"Mas a vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salvación; y saldréis, y saltaréis como becerros de la manada." },
+{name:'3943',l:'39',c:'4',v:'3',texto:"Hollaréis a los malos, los cuales serán ceniza bajo las plantas de vuestros pies, en el día en que yo actúe, ha dicho Jehová de los ejércitos." },
+{name:'3944',l:'39',c:'4',v:'4',texto:"Acordaos de la ley de Moisés mi siervo, al cual encargué en Horeb ordenanzas y leyes para todo Israel." },
+{name:'3945',l:'39',c:'4',v:'5',texto:"He aquí, yo os envío el profeta Elías, antes que venga el día de Jehová, grande y terrible." },
+{name:'3946',l:'39',c:'4',v:'6',texto:"Él hará volver el corazón de los padres hacia los hijos, y el corazón de los hijos hacia los padres, no sea que yo venga y hiera la tierra con maldición." },
+],
+numVersiculos: 6,
+},
+	
+
+};

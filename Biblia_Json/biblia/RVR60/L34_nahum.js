@@ -1,0 +1,71 @@
+BibliaRVR60.nahum = {
+	libro: "Nahúm",
+	numCapitulos: 3,
+
+c1: {
+versiculos:[
+{name:'3411',l:'34',c:'1',v:'1',texto:"Profecía sobre Nínive. Libro de la visión de Nahum de Elcos." },
+{name:'3412',l:'34',c:'1',v:'2',texto:"Jehová es Dios celoso y vengador; Jehová es vengador y lleno de indignación; se venga de sus adversarios, y guarda enojo para sus enemigos." },
+{name:'3413',l:'34',c:'1',v:'3',texto:"Jehová es tardo para la ira y grande en poder, y no tendrá por inocente al culpable. Jehová marcha en la tempestad y el torbellino, y las nubes son el polvo de sus pies." },
+{name:'3414',l:'34',c:'1',v:'4',texto:"Él amenaza al mar, y lo hace secar, y angosta todos los ríos; Basán fue destruido, y el Carmelo, y la flor del Líbano fue destruida." },
+{name:'3415',l:'34',c:'1',v:'5',texto:"Los montes tiemblan delante de él, y los collados se derriten; la tierra se conmueve a su presencia, y el mundo, y todos los que en él habitan." },
+{name:'3416',l:'34',c:'1',v:'6',texto:"¿Quién permanecerá delante de su ira? ¿y quién quedará en pie en el ardor de su enojo? Su ira se derrama como fuego, y por él se hienden las peñas." },
+{name:'3417',l:'34',c:'1',v:'7',texto:"Jehová es bueno, fortaleza en el día de la angustia; y conoce a los que en él confían." },
+{name:'3418',l:'34',c:'1',v:'8',texto:"Mas con inundación impetuosa consumirá a sus adversarios, y tinieblas perseguirán a sus enemigos." },
+{name:'3419',l:'34',c:'1',v:'9',texto:"¿Qué pensáis contra Jehová? Él hará consumación; no tomará venganza dos veces de sus enemigos." },
+{name:'34110',l:'34',c:'1',v:'10',texto:"Aunque sean como espinos entretejidos, y estén empapados en su embriaguez, serán consumidos como hojarasca completamente seca." },
+{name:'34111',l:'34',c:'1',v:'11',texto:"De ti salió el que imaginó mal contra Jehová, un consejero perverso." },
+{name:'34112',l:'34',c:'1',v:'12',texto:"Así ha dicho Jehová: Aunque reposo tengan, y sean tantos, aun así serán talados, y él pasará. Bastante te he afligido; no te afligiré ya más." },
+{name:'34113',l:'34',c:'1',v:'13',texto:"Porque ahora quebraré su yugo de sobre ti, y romperé tus coyundas." },
+{name:'34114',l:'34',c:'1',v:'14',texto:"Mas acerca de ti mandará Jehová, que no quede ni memoria de tu nombre; de la casa de tu dios destruiré escultura y estatua de fundición; allí pondré tu sepulcro, porque fuiste vil." },
+{name:'34115',l:'34',c:'1',v:'15',texto:"He aquí sobre los montes los pies del que trae buenas nuevas, del que anuncia la paz. Celebra, oh Judá, tus fiestas, cumple tus votos; porque nunca más volverá a pasar por ti el malvado; pereció del todo." },
+],
+numVersiculos: 15,
+},
+
+c2: {
+versiculos:[
+{name:'3421',l:'34',c:'2',v:'1',texto:"Subió destruidor contra ti; guarda la fortaleza, vigila el camino, cíñete los lomos, refuerza mucho tu poder." },
+{name:'3422',l:'34',c:'2',v:'2',texto:"Porque Jehová restaurará la gloria de Jacob como la gloria de Israel; porque saqueadores los saquearon, y estropearon sus mugrones." },
+{name:'3423',l:'34',c:'2',v:'3',texto:"El escudo de sus valientes estará enrojecido, los varones de su ejército vestidos de grana; el carro como fuego de antorchas; el día que se prepare, temblarán las hayas." },
+{name:'3424',l:'34',c:'2',v:'4',texto:"Los carros se precipitarán a las plazas, con estruendo rodarán por las calles; su aspecto será como antorchas encendidas, correrán como relámpagos." },
+{name:'3425',l:'34',c:'2',v:'5',texto:"Se acordará él de sus valientes; se atropellarán en su marcha; se apresurarán a su muro, y la defensa se preparará." },
+{name:'3426',l:'34',c:'2',v:'6',texto:"Las puertas de los ríos se abrirán, y el palacio será destruido." },
+{name:'3427',l:'34',c:'2',v:'7',texto:"Y la reina será cautiva; mandarán que suba, y sus criadas la llevarán gimiendo como palomas, golpeándose sus pechos." },
+{name:'3428',l:'34',c:'2',v:'8',texto:"Fue Nínive de tiempo antiguo como estanque de aguas; pero ellos huyen. Dicen: ¡Deteneos, deteneos!; pero ninguno mira." },
+{name:'3429',l:'34',c:'2',v:'9',texto:"Saquead plata, saquead oro; no hay fin de las riquezas y suntuosidad de toda clase de efectos codiciables." },
+{name:'34210',l:'34',c:'2',v:'10',texto:"Vacía, agotada y desolada está, y el corazón desfallecido; temblor de rodillas, dolor en las entrañas, rostros demudados." },
+{name:'34211',l:'34',c:'2',v:'11',texto:"¿Qué es de la guarida de los leones, y de la majada de los cachorros de los leones, donde se recogía el león y la leona, y los cachorros del león, y no había quien los espantase? " },
+{name:'34212',l:'34',c:'2',v:'12',texto:"El león arrebataba en abundancia para sus cachorros, y ahogaba para sus leonas, y llenaba de presa sus cavernas, y de robo sus guaridas." },
+{name:'34213',l:'34',c:'2',v:'13',texto:"Heme aquí contra ti, dice Jehová de los ejércitos. Encenderé y reduciré a humo tus carros, y espada devorará tus leoncillos; y cortaré de la tierra tu robo, y nunca más se oirá la voz de tus mensajeros." },
+],
+numVersiculos: 13,
+},
+
+c3: {
+versiculos:[
+{name:'3431',l:'34',c:'3',v:'1',texto:"¡Ay de ti, ciudad sanguinaria, toda llena de mentira y de rapiña, sin apartarte del pillaje! " },
+{name:'3432',l:'34',c:'3',v:'2',texto:"Chasquido de látigo, y fragor de ruedas, caballo atropellador, y carro que salta; " },
+{name:'3433',l:'34',c:'3',v:'3',texto:"jinete enhiesto, y resplandor de espada, y resplandor de lanza; y multitud de muertos, y multitud de cadáveres; cadáveres sin fin, y en sus cadáveres tropezarán," },
+{name:'3434',l:'34',c:'3',v:'4',texto:"a causa de la multitud de las fornicaciones de la ramera de hermosa gracia, maestra en hechizos, que seduce a las naciones con sus fornicaciones, y a los pueblos con sus hechizos." },
+{name:'3435',l:'34',c:'3',v:'5',texto:"Heme aquí contra ti, dice Jehová de los ejércitos, y descubriré tus faldas en tu rostro, y mostraré a las naciones tu desnudez, y a los reinos tu vergüenza." },
+{name:'3436',l:'34',c:'3',v:'6',texto:"Y echaré sobre ti inmundicias, y te afrentaré, y te pondré como estiércol." },
+{name:'3437',l:'34',c:'3',v:'7',texto:"Todos los que te vieren se apartarán de ti, y dirán: Nínive es asolada; ¿quién se compadecerá de ella? ¿Dónde te buscaré consoladores? " },
+{name:'3438',l:'34',c:'3',v:'8',texto:"¿Eres tú mejor que Tebas, que estaba asentada junto al Nilo, rodeada de aguas, cuyo baluarte era el mar, y aguas por muro? " },
+{name:'3439',l:'34',c:'3',v:'9',texto:"Etiopía era su fortaleza, también Egipto, y eso sin límite; Fut y Libia fueron sus ayudadores." },
+{name:'34310',l:'34',c:'3',v:'10',texto:"Sin embargo ella fue llevada en cautiverio; también sus pequeños fueron estrellados en las encrucijadas de todas las calles, y sobre sus varones echaron suertes, y todos sus grandes fueron aprisionados con grillos." },
+{name:'34311',l:'34',c:'3',v:'11',texto:"Tú también serás embriagada, y serás encerrada; tú también buscarás refugio a causa del enemigo." },
+{name:'34312',l:'34',c:'3',v:'12',texto:"Todas tus fortalezas serán cual higueras con brevas, que si las sacuden, caen en la boca del que las ha de comer." },
+{name:'34313',l:'34',c:'3',v:'13',texto:"He aquí, tu pueblo será como mujeres en medio de ti; las puertas de tu tierra se abrirán de par en par a tus enemigos; fuego consumirá tus cerrojos." },
+{name:'34314',l:'34',c:'3',v:'14',texto:"Provéete de agua para el asedio, refuerza tus fortalezas; entra en el lodo, pisa el barro, refuerza el horno." },
+{name:'34315',l:'34',c:'3',v:'15',texto:"Allí te consumirá el fuego, te talará la espada, te devorará como pulgón; multiplícate como langosta, multiplícate como el langostón." },
+{name:'34316',l:'34',c:'3',v:'16',texto:"Multiplicaste tus mercaderes más que las estrellas del cielo; la langosta hizo presa, y voló." },
+{name:'34317',l:'34',c:'3',v:'17',texto:"Tus príncipes serán como langostas, y tus grandes como nubes de langostas que se sientan en vallados en día de frío; salido el sol se van, y no se conoce el lugar donde están." },
+{name:'34318',l:'34',c:'3',v:'18',texto:"Durmieron tus pastores, oh rey de Asiria, reposaron tus valientes; tu pueblo se derramó por los montes, y no hay quien lo junte." },
+{name:'34319',l:'34',c:'3',v:'19',texto:"No hay medicina para tu quebradura; tu herida es incurable; todos los que oigan tu fama batirán las manos sobre ti, porque ¿sobre quién no pasó continuamente tu maldad? " },
+],
+numVersiculos: 19,
+},
+
+
+};
